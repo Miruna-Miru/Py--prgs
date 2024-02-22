@@ -1,0 +1,9 @@
+list=["hello",45,89,987,"hoi"]
+tinylist=["hi",90]
+print(list)
+print(tinylist)
+print(list[2])
+print(list+tinylist)
+print(list*2)
+list[1]="world"
+print(list)
