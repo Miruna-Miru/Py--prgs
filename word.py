@@ -1,0 +1,2 @@
+# THIS FILE IS CREATED FOR THE FILE HANDLING PROG NAMED < FILE LONG SHORT>
+" Hi everyone im Mirunalini the great . Im pursuing my B.E CSE in Thiagarajar college of engineering. I have completed my schooling in Sivakasi nadars matriculation higher secandory school"
